@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+jupyter
+rrwpt @ git+https://github.com/abelardo1685/rrwpt.git

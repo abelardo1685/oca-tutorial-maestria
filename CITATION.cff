@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "Si usas este material, cita el paper de la OCA y este tutorial."
+type: software
+title: "OCA en Python, cuaderno didáctico"
+version: 0.2.0
+date-released: "2026-10-21"
+authors:
+  - family-names: "Rodríguez-Pretelín"
+    given-names: "Abelardo"
+    affiliation: "Instituto de Geología, Universidad Nacional Autónoma de México (UNAM)"
+license: MIT
+keywords:
+  - optimal clustering analysis
+  - OMOPSO
+  - multi-objective optimization
+  - wellhead protection areas
+  - groundwater
+references:
+  - type: article
+    title: "Optimization-based clustering of random fields for computationally efficient and goal-oriented uncertainty quantification: Concept and demonstration for delineation of wellhead protection areas in transient aquifers"
+    authors:
+      - family-names: "Rodriguez-Pretelin"
+        given-names: "Abelardo"
+      - family-names: "Nowak"
+        given-names: "Wolfgang"
+      - family-names: "Morales-Casique"
+        given-names: "Eric"
+    journal: "Advances in Water Resources"
+    volume: 162
+    start: 104146
+    year: 2022
+    doi: "10.1016/j.advwatres.2022.104146"
